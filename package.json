@@ -1,0 +1,26 @@
+{
+  "name": "hero-game",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "esinit": "eslint --init",
+    "tscinit":"tsc --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxintang/hero-game.git"
+  },
+  "author": "xiaoxt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoxintang/hero-game/issues"
+  },
+  "homepage": "https://github.com/xiaoxintang/hero-game#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.9.0",
+    "@typescript-eslint/parser": "^4.9.0",
+    "eslint": "^7.15.0",
+    "eslint-plugin-react": "^7.21.5",
+    "typescript": "^4.1.2"
+  }
+}
